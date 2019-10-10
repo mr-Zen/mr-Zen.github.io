@@ -1,4 +1,4 @@
-# mr-Zen.github.io
+# [Project 10 Praktikum](https://mr-zen.github.io/)
 ## Форма с валидацией регулярными выражениями
 
 **Версия:** v2.1
